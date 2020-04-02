@@ -20,7 +20,7 @@ all of the sample apps.
         An AppBar with a TabBar as its bottom widget.
       </p>
       <p>
-        This app features the following classes: AppBar, DefaultTabController, TabBar, Scaffold, TabBarView.
+       ok 
       </p>
       <p>
         <a href="/docs/catalog/samples/tabbed-app-bar">Learn more</a>.
